@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'swipe_action_cell', path: '~/src/swipe_action_cell'
